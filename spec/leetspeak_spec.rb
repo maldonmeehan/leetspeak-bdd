@@ -22,11 +22,8 @@ describe('String#leetspeak') do
     expect("sassafrass".leetspeak).to(eq("sazzafrazz"))
   end
 
+  # it('replaces letters correctly in a string of words') do
+  #   expect("I scream you scream we all scream for raspberry ice cream.".leetspeak).to(eq("1 zcr3am y0u zcr3am w3 all zcr3am f0r razpb3rry ic3 cr3am"))
+  # end
+
 end
-
-
-
-
-# it('replaces letters correctly in a string of words') do
-#   expect("I scream you scream we all scream for raspberry ice cream.".leetspeak)).to(eq("1 scr3am y0u scr3am w3 all scr3am f0r razpb3rry ic3 cr3am"))
-# end
