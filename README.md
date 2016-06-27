@@ -8,22 +8,6 @@
 
 _{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
 
-##_Ping Pong_
-
-| Behavior        | Input       | Output  |
-| ------------- |:-------------:| -----:|
-|   Counts from 1 to a given number    | 2 | an array of [1,2] |
-|   Inserts a ping for every multiple of 3    | 3 | [1,2,ping] |
-|   Inserts a pong for every multiple of 5    | 5 | [1,2,ping,4,pong] |
-|   Inserts a ping-pong for every multiple of 15    | 15 | [1,2,ping,4,pong,6,7,8,ping,pong,11,ping,13,14,ping-pong] |
-
-##_Title Case_
-| Behavior        | Input       | Output  |
-| ------------- |:-------------:| -----:|
-|   A user is prompted to enter a string of words    | Give us a string | prompt |
-|   A user enters a sting of words    | Hello how are you? | HELLO HOW ARE YOU? |
-
-
 ##_Leetspeak_
 
 | Behavior        | Input       | Output  |
@@ -32,23 +16,6 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 |   The letter "o" will be replaced with "0"    | Hello | H3ll0 |
 |   The capital letter "I" (but not the lower case, "i") will be replaced with "1"   | I like doing Ruby | 1 lik3 d0ing Ruby |
 |   All instances of "s" will be replaced with "z" unless it is the first letter of the word   | notebooks, I like ships | n0t3b00kz, 1 lik3 shipz |
-
-
-##_Queen Attack_
-
-| Behavior        | Input       | Output  |
-| ------------- |:-------------:| -----:|
-|   a    | b | c |
-|   a    | b | c |
-|   a    | b | c |
-
-##_Clock Angle_
-
-| Behavior        | Input       | Output  |
-| ------------- |:-------------:| -----:|
-|   a    | b | c |
-|   a    | b | c |
-|   a    | b | c |
 
 
 ## Setup/Installation Requirements
