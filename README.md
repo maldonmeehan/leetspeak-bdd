@@ -21,7 +21,7 @@ Here is a sample of input and output
 In: "Don't you love these 'String' exercises? I do!"
 Out: "D0n't y0u l0ve theze 'String' exercizez? 1 d0!"
 
-##_Leetspeak_
+## Specifications
 
 | Behavior        | Input       | Output  |
 | ------------- |:-------------:| -----:|
